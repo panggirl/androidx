@@ -10,4 +10,6 @@ AndroidX是Android团队用于在Jetpack中开发，测试，打包，发布和�
 
 [Android:你好,androidX！再见,android.support](https://www.jianshu.com/p/41de8689615d)
 
+[AndroidX 官网 maven表](https://dl.google.com/dl/android/maven2/index.html)
+
 
